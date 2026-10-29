@@ -75,9 +75,5 @@ docs/           report and presentation outlines, job-skill mapping, interview p
 app/app.py      optional scoring demo
 images/ powerbi/  earlier artefacts
 ```
-
-## Conclusion and future work
-_Write after results._ Candidate next steps: threshold tuning on a validation split, calibration, repeated cross-validation for stable estimates, subgroup error analysis, and time-aware splitting if timestamps exist.
-
 ## Author
 Suhani Mehta
